@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171251698323",
+    "project_id": "jornal-791c7",
+    "storage_bucket": "jornal-791c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171251698323:android:a78c767ef39b99ef92db66",
+        "android_client_info": {
+          "package_name": "com.example.journel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171251698323-fnfffmrpe922hi04gsu6silj23percvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLRimtZWBynRIza6b6yHSQznYbcH_aTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171251698323-fnfffmrpe922hi04gsu6silj23percvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
